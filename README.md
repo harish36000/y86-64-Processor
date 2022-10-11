@@ -1,2 +1,3 @@
-# IPA-Project-ATmicro
-This repo is for handling the code and documentation for our IPA course project
+# y86-64 Implementation
+Implemented a y86-64 processor using Verilog HDL
+
